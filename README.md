@@ -120,6 +120,7 @@ MIT — free to use, modify, and extend.
 
 Developed by **Adish Padalia**  
 📧 padaliaadish@gmail.com  
-🌐 [GitHub: AdishPadalia26](https://github.com/AdishPadalia26)
+🌐 [GitHub: AdishPadalia26](https://github.com/AdishPadalia26)  
+🔗 [LinkedIn: adish-padalia-a3768a230](https://www.linkedin.com/in/adish-padalia-a3768a230/)
 
 ---
