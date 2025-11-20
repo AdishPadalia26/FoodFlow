@@ -1,4 +1,4 @@
-# 🍔 GrubHub — Food Ordering Platform
+# 🍔 FoodFlow — Food Ordering Platform
 
 A full-stack food ordering platform built with the **MERN stack** (MongoDB, Express.js, React.js, Node.js) plus **Firebase** and **Tailwind CSS**.  
 This project allows users to browse menus, place food orders, make secure payments, and track deliveries in real time. An **Admin Dashboard** is included for restaurant, menu, and order management.
@@ -28,7 +28,7 @@ This project allows users to browse menus, place food orders, make secure paymen
 ## 🗂 Project Structure
 
 ```
-GrubHub/
+FoodFlow/
 ├── backend/     # Express server, routes, controllers, models
 │   ├── src/
 │   │   ├── routes/
@@ -54,8 +54,8 @@ GrubHub/
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/AdishPadalia26/GrubHub.git
-cd GrubHub
+git clone https://github.com/AdishPadalia26/FoodFlow.git
+cd FoodFlow
 ```
 
 ### 2. Setup Backend
